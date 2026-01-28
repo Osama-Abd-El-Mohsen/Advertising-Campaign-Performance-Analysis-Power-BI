@@ -58,10 +58,18 @@ The dashboard helps marketing and business teams identify high-performing channe
 | 5 | ![Dashboard](assets/05.png)
 | 6 | ![Dashboard](assets/06.png)
 
-## 🚀 Use Case
-Ideal for:
-- Marketing Analysts  
-- Performance Marketing Teams  
-- Business & Growth Managers  
+## 📊 Live Power BI Dashboard
+
+👉 Click  [here](https://app.powerbi.com/view?r=eyJrIjoiNTJmODdjOGUtZDgzZC00ZWVlLTliZWUtZjYwODY2ZTZkNjQxIiwidCI6ImU0MGU0YTI1LTY2MzgtNGE3MS05NTViLTgyZWI5MDYwMjBiMSJ9)  to view the interactive dashboard
+
+
+
+## 👤 Author
+**Osama Mohamed Abd El-Mohsen**  
+Data Analyst  
+
+GitHub: https://github.com/Osama-Abd-El-Mohsen  
+Portfolio: https://www.osama-abd-elmohsen-portfolio.me  
+
 
 ---
