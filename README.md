@@ -2,6 +2,10 @@
 
 An end-to-end Power BI dashboard for analyzing digital advertising campaign performance across multiple channels and campaigns, focusing on profitability, efficiency, and conversion funnel optimization.
 
+---
+![Dashboard](assets/00.png)
+
+
 ## 📊 Project Overview
 This project analyzes advertising data to evaluate how marketing spend translates into clicks, leads, and orders.  
 The dashboard helps marketing and business teams identify high-performing channels, inefficient campaigns, and optimization opportunities using clear KPIs and interactive visuals.
@@ -31,6 +35,8 @@ The dashboard helps marketing and business teams identify high-performing channe
 - **CPL vs CAC**: Cost efficiency analysis to detect unprofitable campaigns  
 - **ROI Analysis**: ROI comparison across categories and individual campaigns  
 - **Time Analysis**: Day-over-day performance and trend analysis  
+---
+
 
 ## 🛠 Tools & Technologies
 - Power BI  
@@ -39,11 +45,18 @@ The dashboard helps marketing and business teams identify high-performing channe
 - Data Modeling  
 - Data Visualization & Storytelling  
 
-## 🔐 Data Note
-The dataset used in this project is **synthetic / mock data**, designed to replicate real-world advertising data while maintaining confidentiality.
+
 
 ## 📷 Dashboard Preview
-Screenshots are included in the repository.
+
+| Page | ScreenShot |
+|-----|---------------|
+| 1 |![Dashboard](assets/01.png)
+| 2 | ![Dashboard](assets/02.png)
+| 3 | ![Dashboard](assets/03.png)
+| 4 | ![Dashboard](assets/04.png)
+| 5 | ![Dashboard](assets/05.png)
+| 6 | ![Dashboard](assets/06.png)
 
 ## 🚀 Use Case
 Ideal for:
@@ -52,4 +65,3 @@ Ideal for:
 - Business & Growth Managers  
 
 ---
-# Advertising-Campaign-Performance-Analysis-Power-BI
